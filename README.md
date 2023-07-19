@@ -4,6 +4,6 @@ In questo progetto, l'obiettivo è addestrare un modello di machine learning per
 
 ## Project Structure
 
-* 1_eda.ipynb: analisi esplorativa del dataset
-* 2_preprocess.ipynb: pulizia del dataset
-* 3_model.ipynb: applicazione dei modelli predittivi
+* ```1_eda.ipynb```: analisi esplorativa del dataset
+* ```2_preprocess.ipynb```: pulizia del dataset
+* ```3_model.ipynb```: applicazione dei modelli predittivi
